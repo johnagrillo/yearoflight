@@ -15,14 +15,14 @@
   description:
     - Parking Lot, Severn, MD
   image: 
-    - PXL_20250116_122025186.RAW-01.COVER~4.jpg
+    - PXL_20250116_122025186.RAW-01.COVER~4
     
 - date: 2025-01-16
   description:
     - Old Bank Building
   image: 
-    - PXL_20250115_110451887.RAW-02.ORIGINAL.jpg
-    - PXL_20250115_110522799.RAW-01.COVER~2.jpg
+    - PXL_20250115_110451887.RAW-02.ORIGINAL
+    - PXL_20250115_110522799.RAW-01.COVER~2
 
 
 - date: 2025-01-15
@@ -41,13 +41,16 @@
   description:
     - MoonSet
   image:
-   - PXL_20250113_105636781.RAW-02.ORIGINAL.jpg
+   - PXL_20250113_105636781.RAW-02.ORIGINAL
 
 - date: 2025-01-12
   description:
     - Kraft Farm 
   image:
-    - PXL_20250113_105636781.RAW-02.ORIGINAL.jpg
+   - 250112-5d3-sunset-2194.jpg
+   - 250112-5d3-sunset-2257.jpg
+   - 250112-5d3-sunset-2361.jpg
+   - 250112-5d3-sunset-2389.jpg
 
 - date: 2025-01-11
   description:
@@ -79,11 +82,12 @@
     - DownTown Mt. Airy Christmas Tree 
   image: 
     - 250107-5d3-snow-2031
+    
 - date: 2025-01-06
   description:
     - Scotch Heather Ave 
   image:
-    - 250107-5d3-snow-2031
+    - 250106-5d3-snow-1991
 
 - date: 2025-01-05
   description:
