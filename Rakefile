@@ -9,6 +9,7 @@ task :default do
     puts "<br>"
     puts "<hr>"
     puts "<h2>" + pic["date"].to_s + "</h2>"
+    puts "<h2>" + pic["description"].to_s + "</h2>"
     puts "<span>"
     pic["image"].each do |i|
       puts "<a href=\"#{i}.jpg\"><img src=\"#{i}.jpg\" height=\"300\">"
