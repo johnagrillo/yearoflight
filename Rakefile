@@ -3,7 +3,7 @@ require 'yaml'
 pics = YAML.load(File.read("pics.yaml"))
 task :default do
 
-  puts "<h1> The Year of Light</h1>"
+  puts "<h1>2025 - Welcome to The Year of Light</h1>"
   
 
   count = pics.size 
