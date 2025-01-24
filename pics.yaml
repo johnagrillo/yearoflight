@@ -1,16 +1,25 @@
 ---
 
 
+#- date: 2025-01-24
+#  description:
+#    - Shiny Shell
+#  image:
+#   - PXL_20250122_112239147.RAW-01.COVER
+
+
 - date: 2025-01-23
   description:
-    - Shiny Shell
+    - Cirro Cumulus Clouds, Main Street
   image:
-   - PXL_20250122_112239147.RAW-01.COVER
+   - PXL_20250123_213649121.RAW-01.COVER~4
+   - PXL_20250123_214007384.LONG_EXPOSURE-01.COVER~4
+   - PXL_20250123_214106793.RAW-01.COVER~4
 
 
 - date: 2025-01-22
   description:
-    - Sunset
+    - Sunset, Scotch Heather Ave
   image:
    - 250122-5d3-sky-2608
    - 250122-5d3-sky-2614
