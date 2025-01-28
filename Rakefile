@@ -16,9 +16,9 @@ task :default do
     
     puts pic["description"] * "</br>" + "</h2>"
     pic["image"].each do |i|
-      #puts "<a href=\"#{i}.jpg\">"
+      puts "<a href=\"#{i}.jpg\">"
       puts "<img src=\"#{i}.jpg\" height=\"300\">"
-      #puts "</a>"
+      puts "</a>"
     end  
     puts "</span>"
   end

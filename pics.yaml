@@ -1,9 +1,15 @@
 ---
-- date: 2025-01-27
+- date: 2025-01-28
   description:
     - Main Street
   image:
     - PXL_20250124_112517317.RAW-01.COVER
+
+- date: 2025-01-27
+  description:
+    - Sunset, Kraft Farm
+  image:
+    - 250127-p9p-sunset-220318331
 
 - date: 2025-01-26
   description:
@@ -57,7 +63,7 @@
     - Sunset From Fire Hall,  Down Town Lights
   image:
    - PXL_20250121_223200670.RAW-01.COVER~2
-   - PXL_20250121_222646038.RAW-01.COVER~2
+   - 250121-p9p-lights-222646038-2
 
    
 - date: 2025-01-20
