@@ -1,6 +1,12 @@
 require 'yaml'
 
 pics = YAML.load(File.read("pics.yaml"))
+task :commit do
+
+  sh "git add ."
+  sh "git commit -m\"year of light\""
+  sh "git push"
+end
 task :default do
 
   File.open("index.html","w") do |fh|
@@ -14,7 +20,7 @@ task :default do
       
       date = pic["date"]
       
-      fh.puts "<h2> " + date.strftime("%b %d --- Day %-j ---  " ) 
+      fh.puts "<h2> " + date.strftime("Day %-j --- %b %d ---  " ) 
       count = count -1
       fh.puts pic["description"] * "</br>" + "</h2>"
       pic["image"].each do |i|
