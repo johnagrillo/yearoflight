@@ -17,7 +17,8 @@ task :thumbs do
     imgm = Magick::Image::read(pic).first
     thumbm = imgm.resize_to_fit(300,200)
     
-    thumbm.write("thumbs-#{pic}")
+    thumbm.write("thumbs/#{pic}")
+    puts "thumbs/#{pic}"
     
   end
 
