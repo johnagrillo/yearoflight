@@ -17,6 +17,12 @@ task :default do
     count = count -1
     puts pic["description"] * "</br>" + "</h2>"
     pic["image"].each do |i|
+
+      unless File.exist?("#{i}.jpg")
+        $stderr.puts i
+        exit
+      end         
+      
       puts "<a href=\"#{i}.jpg\">"
       puts "<img src=\"#{i}.jpg\" height=\"200\">"
       puts "</a>"

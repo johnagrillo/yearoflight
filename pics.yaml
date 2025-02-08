@@ -111,7 +111,7 @@
   description:
     - Shiny Shell, Sunset
   image:
-   - PXL_20250122_112239147.RAW-01.COVER
+   - 250122-p9p-light-112239147
    - 250124-5d3-sunset-2642
 
 
@@ -119,9 +119,9 @@
   description:
     - Cirro Cumulus Clouds, Main Street
   image:
-   - PXL_20250123_213649121.RAW-01.COVER~4
-   - PXL_20250123_214007384.LONG_EXPOSURE-01.COVER~4
-   - PXL_20250123_214106793.RAW-01.COVER~4
+   - 250123-p9p-light-213649121-4
+   - 250123-p9p-light-214007384-4
+   - 250123-p9p-light-214106793-4
 
 
 - date: 2025-01-22
@@ -136,7 +136,7 @@
   description:
     - Sunset From Fire Hall,  Down Town Lights
   image:
-   - PXL_20250121_223200670.RAW-01.COVER~2
+   - 250121-p9p-light-223200670-2
    - 250121-p9p-lights-222646038-2
 
    
@@ -151,7 +151,7 @@
   description:
     - St Michaels Church Old Chapel, Not so Summer Sweet Lane
   image:
-   - PXL_20250118_223752422.RAW-01.COVER~3
+   - 250118-p9p-light-223752422-3
    - 250119-5d3-snow-2515
    - 250119-5d3-snow-2528
 
@@ -165,34 +165,35 @@
   description:
     - St James Thrift Store,  Kraft Farm
   image: 
-    - PXL_20250117_221727418.RAW-01.COVER
-    - PXL_20250117_222959692.RAW-01.COVER
+    - 250117-p9p-light-221727418
+    - 250117-p9p-light-222959692
     
 - date: 2025-01-16
   description:
     - Old Bank Building. Mt Airy, Md
   image: 
-    - PXL_20250115_110451887.RAW-02.ORIGINAL
-    - PXL_20250115_110522799.RAW-01.COVER~2
+    - 250115-p9p-light-110451887
+    - 250115-p9p-light-110522799-2
 
 
 - date: 2025-01-15
   description:
     - Old Bank Building, Chick Fila
   image:
-    - PXL_20250115_110409802.RAW-02.ORIGINAL
-    - PXL_20250109_104428505.RAW-02.ORIGINAL
+    - 250115-p9p-light-110409802
+    - 250109-p9p-light-104428505
+    
 - date: 2025-01-14
   description:
     - Scotch Heather Ave
   image:
-   - PXL_20250114_211321634.RAW-01.COVER~2
+   - 250114-p9p-light-211321634-2
 
 - date: 2025-01-13
   description:
     - MoonSet
   image:
-   - PXL_20250113_105636781.RAW-02.ORIGINAL
+   - 250113-p9p-light-105636781
 
 - date: 2025-01-12
   description:
@@ -220,13 +221,13 @@
   description:
     - Buffalo Road 
   image:
-   - PXL_20250109_215226319.RAW-02.ORIGINAL
+   - 250109-p9p-light-215226319
 
 - date: 2025-01-08
   description:
     - Scotch Heather Ave 
   image:
-    - PXL_20250108_213655852.RAW-02.ORIGINAL
+    - 250108-p9p-light-213655852
 
 - date: 2025-01-07
   description:
