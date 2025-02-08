@@ -15,7 +15,7 @@ task :thumbs do
   FileUtils.mkdir_p("thumbs")
   Dir.glob("*.jpg").each do |pic|
     imgm = Magick::Image::read(pic).first
-    thumbm = imgm.resize_to_fit(300,200)
+    thumbm = imgm.resize_to_fit(225,175)
     
     thumbm.write("thumbs/#{pic}")
     puts "thumbs/#{pic}"
@@ -53,7 +53,7 @@ task :default do
         end         
         
         fh.puts "<a href=\"#{pic}\">"
-        fh.puts "<img src=\"#{thumb}\" height=\"200\">"
+        fh.puts "<img src=\"#{thumb}\" height=\"150\">"
         fh.puts "</a>"
       end  
       fh.puts "</span>"
