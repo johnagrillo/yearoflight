@@ -3,32 +3,33 @@ require 'yaml'
 pics = YAML.load(File.read("pics.yaml"))
 task :default do
 
-  puts "<h1>2025 - The Year of Light</h1>"
+  File.open("index.html","w") do |fh|
+    fh.puts "<h1>2025 - The Year of Light</h1>"
   
 
-  count = pics.size 
-  pics.each do |pic|
-    puts "<hr>"
-    puts "<span>"
-
-    date = pic["date"]
-    
-    puts "<h2> " + date.strftime("%b %d --- Day %-j ---  " ) 
-    count = count -1
-    puts pic["description"] * "</br>" + "</h2>"
-    pic["image"].each do |i|
-
-      unless File.exist?("#{i}.jpg")
-        $stderr.puts i
-        exit
-      end         
+    count = pics.size 
+    pics.each do |pic|
+      fh.puts "<hr>"
+      fh.puts "<span>"
       
-      puts "<a href=\"#{i}.jpg\">"
-      puts "<img src=\"#{i}.jpg\" height=\"200\">"
-      puts "</a>"
-    end  
-    puts "</span>"
+      date = pic["date"]
+      
+      fh.puts "<h2> " + date.strftime("%b %d --- Day %-j ---  " ) 
+      count = count -1
+      fh.puts pic["description"] * "</br>" + "</h2>"
+      pic["image"].each do |i|
+
+        unless File.exist?("#{i}.jpg")
+          $stderr.puts i
+          exit
+        end         
+        
+        fh.puts "<a href=\"#{i}.jpg\">"
+        fh.puts "<img src=\"#{i}.jpg\" height=\"200\">"
+        fh.puts "</a>"
+      end  
+      fh.puts "</span>"
+    end
   end
     
-
 end
