@@ -17,7 +17,7 @@ task :thumbs do
     imgm = Magick::Image::read(pic).first
     thumbm = imgm.resize_to_fit(300,200)
     
-    thumbm.write("thumbs/#{pic}")
+    thumbm.write("thumbs-#{pic}")
     
   end
 
@@ -43,7 +43,8 @@ task :default do
       fh.puts pic["description"] * "</br>" + "</h2>"
       pic["image"].each do |i|
 
-        pic = "thumbs/#{i}.jpg"
+        pic = "#{i}.jpg"
+        thumb = "thumbs/#{i}.jpg"
 
         unless File.exist?(pic)
           $stderr.puts pic
@@ -51,7 +52,7 @@ task :default do
         end         
         
         fh.puts "<a href=\"#{pic}\">"
-        fh.puts "<img src=\"#{pic}.jpg\" height=\"200\">"
+        fh.puts "<img src=\"#{thumb}\" height=\"200\">"
         fh.puts "</a>"
       end  
       fh.puts "</span>"
