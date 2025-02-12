@@ -1,7 +1,21 @@
 ---
+- date: 2025-02-12
+  description:
+   - Snow Storm, Scotch Heather Ave
+  image:
+   - 250212-p9p-snow-001432851
+   - 250212-p9p-snow-001608171
+   - 250212-p9p-snow-001824483
+
+- date: 2025-02-11
+  description:
+   - Dallastown, Pa
+  image:
+   - 250211-p9p-dallastown-010640001-2
+
 - date: 2025-02-10
   description:
-   - Patrick St, Carroll Creel, Frederick, Md
+   - Patrick St, Carroll Creek, Frederick, Md
   image:
    - 250210-p9p-frederick-002149624
    - 250210-p9p-frederick-001540562
