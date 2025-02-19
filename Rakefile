@@ -39,9 +39,9 @@ task :default do
       
       date = pic["date"]
       
-      fh.puts "<h2> " + date.strftime("Day %-j --- %b %d ---  " ) 
+      fh.puts "<h1> " + date.strftime("Day %-j --- %b %d ---  " ) 
       count = count -1
-      fh.puts pic["description"] * "</br>" + "</h2>"
+      fh.puts pic["description"] * "</br>" + "</h1>"
       pic["image"].each do |i|
 
         pic = "#{i}.jpg"
