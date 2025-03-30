@@ -1,4 +1,40 @@
 ---
+
+- date: 2025-03-29
+  description:
+   - DC
+  image:
+   - 250329-p9p-dc-131710914.MP-2
+   - 250329-p9p-dc-150652267.MP-5
+
+- date: 2025-03-28
+  description:
+   - Sunrise
+  image:
+   - 250328-p9p-sunrise-112955616-2
+
+- date: 2025-03-27
+  description:
+   - Sunset
+  image:
+   - 250327-p9p-sunset-230730871-2
+   - 250327-p9p-sunset-234145685-3
+
+   
+- date: 2025-03-26
+  description:
+   - Downtown
+  image:
+   - 250324-5d3-twilight-3124
+   
+- date: 2025-03-25
+  description:
+   - Sunset
+  image:
+   - 250325-p9p-sunset-232714793-7
+   - 250325-p9p-sunset-233621961-2
+
+
 - date: 2025-03-24
   description:
    - Crepuscular Rays
