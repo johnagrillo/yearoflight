@@ -1,4 +1,35 @@
 ---
+- date: 2025-04-07
+  description:
+   - Sunrise
+  image:
+  - 250331-p9p-sunrise-111329337-3
+
+- date: 2025-04-06
+  description:
+   - Spring colors
+  image:
+   - 250406-p9p-spring-143803138
+   - 250406-p9p-spring-143907382-3
+  
+- date: 2025-04-05
+  description:
+   - Evening clouds
+  image:
+   - 250405-p9p-sky-231307643-2
+   - 250405-p9p-sky-231129673-4
+
+- date: 2025-04-04
+  description:
+   - Street light
+  image:
+   - 250404-p9p-early-095547413
+
+- date: 2025-04-03
+  description:
+   - Lego Rose in window light
+  image:
+   - 250401-p9p-legorose-214640652
 
 - date: 2025-04-02
   description:
