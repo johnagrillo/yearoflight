@@ -1,4 +1,52 @@
 ---
+
+- date: 2025-04-26
+  description:
+   - Sun Rise
+  image:
+   - 250425-p9p-rise-111503788
+
+- date: 2025-04-25
+  description:
+   - Dogwood at Twilight
+  image:
+   - 250424-p9p-dogwood-234854958
+
+- date: 2025-04-24
+  description:
+   - Parrot Tulip
+  image:
+   - 250423-p9p-tulip-195016228
+
+
+- date: 2025-04-23
+  description:
+   - Evening Twilight
+  image:
+   - 250422-p9p-evening-225101615-2
+
+- date: 2025-04-22
+  description:
+   - Dogwood
+  image:
+   - 250421-p9p-clouds-141238783
+   - 250421-p9p-clouds-141149183
+- date: 2025-04-21
+  description:
+   - Evening Clouds
+  image:
+   - 250421-p9p-clouds-140521418-3
+   - 250421-p9p-clouds-154315463-2
+   - 250421-p9p-clouds-154621365-4
+
+
+- date: 2025-04-20
+  description:
+   - Sugar Loaf
+  image:
+   - 250420-p9p-sugarloaf-145001262-4
+   - 250420-p9p-sugarloaf-155045746-3
+   
 - date: 2025-04-19
   description:
    - Mamatas Clouds
