@@ -1,4 +1,60 @@
 ---
+
+- date: 2025-06-11
+  description:
+   - Sunrise
+  image:
+    - 250612-p9p-pics-092502636
+
+
+- date: 2025-06-10
+  description:
+   - Pink and Purple Coneflower
+  image:
+    - 250612-p9p-pics-002443589
+    
+- date: 2025-06-09
+  description:
+   - Sunset
+  image:
+    - 250612-p9p-pics-002306750
+    
+- date: 2025-06-08
+  description:
+   - 81
+  image:
+    - 250608-p9p-pics-181127886
+
+- date: 2025-06-07
+  description:
+   - Windows
+  image:
+    - 250607-p9p-pics-130105042-3
+
+- date: 2025-06-06
+  description:
+   - Hotel
+  image:
+    - 250607-p9p-pics-001424159
+    - 250607-p9p-pics-012313877
+
+
+
+
+- date: 2025-06-04
+  description:
+   - Undulatus Clouds
+  image:
+    - 250605-p9p-pics-234225194-2
+
+
+
+- date: 2025-06-03
+  description:
+   - Light Pillar
+  image:
+    - 250604-p9p-pics-095533609
+
 - date: 2025-06-02
   description:
    - Last Light
@@ -117,7 +173,17 @@
   image:
    - 250515-p9p-pics-003200699.MP
 
+- date: 2025-05-13
+  description:
+   - Sky
+  image:
+   - 250512-5d3-sky-3206
 
+- date: 2025-05-12
+  description:
+   - Sky
+  image:
+   - 250419-5d3-sky-3171
 
 - date: 2025-05-11
   description:
