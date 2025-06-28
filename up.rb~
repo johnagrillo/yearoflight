@@ -1,0 +1,30 @@
+day = 15
+
+%W(
+250619-p9p-pics-142337853.jpg
+250624-p9p-pics-214209694-3.jpg
+250624-p9p-pics-214334056.jpg
+250624-p9p-pics-214356729.jpg
+250624-p9p-pics-214434457-2.jpg
+250624-p9p-pics-214537863.jpg
+250624-p9p-pics-214623250.jpg
+250625-p9p-pics-205323141-3.jpg
+250625-p9p-pics-205440275-3.jpg
+250625-p9p-pics-205558665-3.jpg
+).each do |p|
+
+puts "
+- date: 2025-06-15
+  description:
+   - Carroll Creek Fountains
+  image:
+    - 250615-p9p-pics-165501256
+"
+
+end
+
+           
+
+
+           
+  
